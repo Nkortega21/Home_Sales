@@ -18,7 +18,7 @@ This project leverages SparkSQL to analyze and calculate key metrics from home s
 
 ## Files
 The following files are included to help you get started:
-- `Home_Sales_starter_code.ipynb`
+- `Home_Sales.ipynb`
 - `home_sales_revised.csv`
 
 Rename `Home_Sales_starter_code.ipynb` to `Home_Sales.ipynb` before beginning the project.
